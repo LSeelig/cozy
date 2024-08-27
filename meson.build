@@ -1,4 +1,4 @@
-project('com.github.geigi.cozy', version: '1.3.0', meson_version: '>= 0.59.0')
+project('com.github.geigi.cozy', version: '1.3.1-fork', meson_version: '>= 0.59.0')
 
 python = import('python')
 i18n = import('i18n')
